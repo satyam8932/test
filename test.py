@@ -1,5 +1,3 @@
-import streamlit as st
+# This code is written by sana
 
-st.header("Test App")
-
-st.checkbox("Holla")
+print("hello")
